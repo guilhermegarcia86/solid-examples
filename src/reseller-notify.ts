@@ -1,4 +1,4 @@
-class NotifyService {
+export class NotifyService {
 
   sendLoginNotification(): void {
     console.log('send login notification')

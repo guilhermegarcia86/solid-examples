@@ -1,5 +1,6 @@
 import { ResellerDatabase } from "./interface/reseller-database.interface";
 import { ResellerAuth } from "./reseller-auth";
+import { NotifyService } from "./reseller-notify";
 
 export class ResellerService {
 
